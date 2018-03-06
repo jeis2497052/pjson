@@ -34,14 +34,14 @@ Susan INFO  is 11
 
 # Reference links
 
-[JSON to CSV] (http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-json-to-csv-using-python/)
+[JSON to CSV](http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-json-to-csv-using-python/)
 
-[json org] (http://json.org/example.html)
+[json org](http://json.org/example.html)
 
-[pandas pydata org] (http://pandas.pydata.org/pandas-docs/stable/enhancingperf.html#eval-examples)
+[pandas pydata org](http://pandas.pydata.org/pandas-docs/stable/enhancingperf.html#eval-examples)
 
-[python docs compound statements] (https://docs.python.org/2/reference/compound_stmts.html)
+[python docs compound statements](https://docs.python.org/2/reference/compound_stmts.html)
 
-[dictionary keys] (https://stackoverflow.com/questions/16819222/how-to-return-dictionary-keys-as-a-list-in-python)
+[dictionary keys](https://stackoverflow.com/questions/16819222/how-to-return-dictionary-keys-as-a-list-in-python)
 
-[json into python] (https://linuxconfig.org/how-to-parse-data-from-json-into-python)
+[json into python](https://linuxconfig.org/how-to-parse-data-from-json-into-python)
