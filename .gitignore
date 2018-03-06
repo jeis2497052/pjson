@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# osx stuff
+.DS_Store
+
+# other
+.nfs.*
+*~
+*.orig
+*.rej
+*.exe
+.*.swp
